@@ -65,5 +65,6 @@ The program produces a comparison figure containing four images:
 3. Prewitt edge detection
 4. Canny edge detection
 
-## Source
-The Python file is a Colab-generated Computer Vision Lab 3 program.
+## output
+<img width="1027" height="989" alt="image" src="https://github.com/user-attachments/assets/bddb9ef6-e0dc-4588-ae21-6f0f2e2e37d2" />
+
